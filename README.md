@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
 <h3 align="center">A passionate full-stack developer, based in London, always looking to learn!</h3>
 
-- 🔭 I’m currently working on **improving and developing my coding knowledge and ability.**
+- 🔭 I’m currently working on **the Makers bootcamp.**
 
-- 🌱 I’m currently learning **more about JavaScript and react as well as strengthening my skills in ruby, css and html, after completing the Le Wagon Web Developer bootcamp.**
+- 🌱 I’m currently learning **strengthening my skills in ruby, css and html, on the Makers bootcamp.**
 
 - 📫 How to reach me **ellaskolnick@me.com**
 
