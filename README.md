@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **the Makers bootcamp.**
 
-- 🌱 I’m currently learning **strengthening my skills in ruby, css and html, on the Makers bootcamp.**
+- 🌱 I’m currently **strengthening my skills in ruby, css and html, on the Makers bootcamp.**
 
 - 📫 How to reach me **ellaskolnick@me.com**
 
