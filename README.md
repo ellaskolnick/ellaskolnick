@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
 <h3 align="center">A passionate full-stack developer, based in London, always looking to learn!</h3>
 
-- 🔭 I’m currently working on **the Makers bootcamp.**
+- 🔭 I’ve just completed my **Software Engineering Apprenticeship at Google** with a **distinction.**
 
-- 🌱 I’m currently **strengthening my skills in ruby, css and html, on the Makers bootcamp.**
+- 🌱 I’m currently **searching for my next Software Engineering Role.**
 
 - 📫 How to reach me **ellaskolnick@me.com**
 
