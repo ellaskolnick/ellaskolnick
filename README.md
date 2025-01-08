@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
-<h3 align="center">A passionate full-stack developer, based in London, always looking to learn!</h3>
+<h3 align="center">A passionate Software Engineer, based in London, always looking to learn!</h3>
 
 - 🔭 I’ve just completed my **Software Engineering Apprenticeship at Google** with a **distinction.**
 
